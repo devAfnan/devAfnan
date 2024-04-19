@@ -1,6 +1,6 @@
-### Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-I'm Afnan Alsahli, a computer science student at Taibah University.
+I'm Afnan Alsahli, a computer science student at Taibah University <img src="https://url_to_taibah_uni_icon_or_image.png" alt="Taibah University Icon" width="20" height="20">.
 
 ## Skills 
 
@@ -10,4 +10,5 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 
 - Artificial Intelligence (AI)
 - Data Analysis
+
 
