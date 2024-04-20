@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
 I'm Afnan Alsahli, a computer science student at Taibah University.
+![Profile Views](https://komarev.com/ghpvc/?username=devAfnan&color=brightgreen)
+
 
 ## Skills 
 
