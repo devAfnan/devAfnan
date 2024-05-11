@@ -1,14 +1,10 @@
----
-[![](https://visitcount.itsvg.in/api?id=devAfnan&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Welcome to My GitHub Profile! 👋
 
 I'm Afnan Alsahli, a computer science student at Taibah University.
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 [![SQL Icon](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white&logoWidth=40&logoHeight=40)](https://www.sqlite.org/index.html)
 [![C++ Icon](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white&logoWidth=40&logoHeight=40)](https://isocpp.org/)
 [![Assembly Icon](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white&logoWidth=40&logoHeight=40)](https://www.assemblyscript.org/)
@@ -26,13 +22,9 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 - Artificial Intelligence (AI)
 - Data Analysis
 
-## Connect with Me 
+## 🌐 Connect with Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afnan-alsahli-848536281)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:afnanalsuhli@gmail.com)
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devAfnan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
