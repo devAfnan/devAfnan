@@ -9,7 +9,18 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 
 
 # 💻 Tech Stack:
-![SQL Icon](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Assembly Icon](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white) ![Prolog Icon](https://img.shields.io/badge/Prolog-3D9FE3?style=flat-square&logo=prolog&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 💻 Tech Stack:
+[![SQL Icon](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white&logoWidth=40&logoHeight=40)](https://www.sqlite.org/index.html)
+[![C++ Icon](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white&logoWidth=40&logoHeight=40)](https://isocpp.org/)
+[![Assembly Icon](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white&logoWidth=40&logoHeight=40)](https://www.assemblyscript.org/)
+[![Prolog Icon](https://img.shields.io/badge/Prolog-3D9FE3?style=flat-square&logo=prolog&logoColor=white&logoWidth=40&logoHeight=40)](https://www.swi-prolog.org/)
+[![Java Icon](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white&logoWidth=40&logoHeight=40)](https://openjdk.java.net/)
+[![Python Icon](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54&logoWidth=40&logoHeight=40)](https://www.python.org/)
+[![Excel Icon](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft%20excel&logoColor=white&logoWidth=40&logoHeight=40)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI Icon](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black&logoWidth=40&logoHeight=40)](https://powerbi.microsoft.com/)
+[![Figma Icon](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&logoWidth=40&logoHeight=40)](https://www.figma.com/)
+
+
 
 ## Interests
 
