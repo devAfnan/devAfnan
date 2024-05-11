@@ -9,7 +9,6 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 [![SQL Icon](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white&logoWidth=40&logoHeight=40)](https://www.sqlite.org/index.html)
 [![C++ Icon](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white&logoWidth=40&logoHeight=40)](https://isocpp.org/)
 [![Assembly Icon](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white&logoWidth=40&logoHeight=40)](https://www.assemblyscript.org/)
