@@ -1,3 +1,4 @@
+                                      [![](https://visitcount.itsvg.in/api?id=devAfnan&icon=5&color=10)](https://visitcount.itsvg.in)
 # Welcome to My GitHub Profile! 👋
 
 I'm Afnan Alsahli, a computer science student at Taibah University.
@@ -22,7 +23,7 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devAfnan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=devAfnan&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
