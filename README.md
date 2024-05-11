@@ -1,5 +1,5 @@
 ---
-[![](https://visitcount.itsvg.in/api?id=devAfnan&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devAfnan&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Welcome to My GitHub Profile! 👋
