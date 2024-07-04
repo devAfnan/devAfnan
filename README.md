@@ -7,7 +7,7 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 ## 💻 Tech Stack:
 [![SQL Icon](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white&logoWidth=30&logoHeight=30)](https://www.sqlite.org/index.html)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Prolog](https://img.shields.io/badge/prolog-%23ADD8E6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Prolog](https://img.shields.io/badge/prolog-%23ADD8E6.svg?style=for-the-badge&logo=prolog&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23003366.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
