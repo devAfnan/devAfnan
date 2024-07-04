@@ -16,16 +16,16 @@ I'm Afnan Alsahli, a computer science student at Taibah University.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-[![Excel Icon](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft%20excel&logoColor=white&logoWidth=30&logoHeight=30)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Power BI Icon](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black&logoWidth=30&logoHeight=30)](https://powerbi.microsoft.com/)
-[![Figma Icon](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&logoWidth=30&logoHeight=30)](https://www.figma.com/)
-
+[![Excel Icon](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft%20excel&logoColor=white&logoWidth=20&logoHeight=20)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Power BI Icon](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black&logoWidth=20&logoHeight=20)](https://powerbi.microsoft.com/)
+[![Figma Icon](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white&logoWidth=20&logoHeight=20)](https://www.figma.com/)
 
 
 ## 💫 Interests:
 
-- Artificial Intelligence 
 - Data Analysis
+- Artificial Intelligence 
+
 
 ## 🌐 Connect with Me:
 
