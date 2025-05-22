@@ -20,8 +20,10 @@ I'm Afnan Alsahli, a Computer Science and Engineering graduate from Taibah Unive
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## 💫 Interests:
 
+- Artificial Intelligence
 - Data Analysis
-- Artificial Intelligence 
+- Web Development
+ 
 
 
 ## 🌐 Connect with Me:
