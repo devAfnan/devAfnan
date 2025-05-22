@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm Afnan Alsahli, a computer science student at Taibah University.
+I'm Afnan Alsahli, a Computer Science and Engineering graduate from Taibah University.
 
 
 
